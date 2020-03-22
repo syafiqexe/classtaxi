@@ -1,0 +1,11 @@
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\bin\Debug\netcoreapp3.1\tugas class dan object.exe
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\bin\Debug\netcoreapp3.1\tugas class dan object.deps.json
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\bin\Debug\netcoreapp3.1\tugas class dan object.runtimeconfig.json
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\bin\Debug\netcoreapp3.1\tugas class dan object.runtimeconfig.dev.json
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\bin\Debug\netcoreapp3.1\tugas class dan object.dll
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\bin\Debug\netcoreapp3.1\tugas class dan object.pdb
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\obj\Debug\netcoreapp3.1\tugas class dan object.csprojAssemblyReference.cache
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\obj\Debug\netcoreapp3.1\tugas class dan object.AssemblyInfoInputs.cache
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\obj\Debug\netcoreapp3.1\tugas class dan object.AssemblyInfo.cs
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\obj\Debug\netcoreapp3.1\tugas class dan object.dll
+C:\Users\jinx.pro\Pictures\New folder\tugas class dan object\obj\Debug\netcoreapp3.1\tugas class dan object.pdb
